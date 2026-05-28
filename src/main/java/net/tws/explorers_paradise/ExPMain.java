@@ -57,7 +57,7 @@ public class ExPMain {
 
     private void commonSetup(FMLCommonSetupEvent event) {
        event.enqueueWork(() -> {
-           Regions.register(new ExPRegions(ResourceLocation.fromNamespaceAndPath(MODID, "overworld"), RegionType.OVERWORLD, 1));
+           Regions.register(new ExPRegions(ResourceLocation.fromNamespaceAndPath(MODID, "overworld"), RegionType.OVERWORLD, 2));
 
            SurfaceRuleManager.addSurfaceRules(SurfaceRuleManager.RuleCategory.OVERWORLD, MODID, ExPSurfaceRules.makeRules());
        });
