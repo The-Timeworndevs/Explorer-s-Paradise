@@ -25,15 +25,8 @@ import net.neoforged.fml.config.ModConfig;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.common.NeoForge;
-import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
-import net.neoforged.neoforge.registries.DeferredBlock;
-import net.neoforged.neoforge.registries.DeferredHolder;
-import net.neoforged.neoforge.registries.DeferredItem;
-import net.neoforged.neoforge.registries.DeferredRegister;
-import terrablender.api.RegionType;
-import terrablender.api.Regions;
-import terrablender.api.SurfaceRuleManager;
+
 
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(ExPMain.MODID)
@@ -56,11 +49,6 @@ public class ExPMain {
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
-       event.enqueueWork(() -> {
-           Regions.register(new ExPRegions(ResourceLocation.fromNamespaceAndPath(MODID, "overworld"), RegionType.OVERWORLD, 2));
-
-           SurfaceRuleManager.addSurfaceRules(SurfaceRuleManager.RuleCategory.OVERWORLD, MODID, ExPSurfaceRules.makeRules());
-       });
     }
 
 
