@@ -1,0 +1,11 @@
+{
+
+
+  "final_frontier.configuration.title": "Final Frontier Configs",
+  "final_frontier.configuration.section.final_frontier.common.toml": "Final Frontier Configs",
+  "final_frontier.configuration.section.final_frontier.common.toml.title": "Final Frontier Configs",
+  "final_frontier.configuration.items": "Item List",
+  "final_frontier.configuration.logDirtBlock": "Log Dirt Block",
+  "final_frontier.configuration.magicNumberIntroduction": "Magic Number Text",
+  "final_frontier.configuration.magicNumber": "Magic Number"
+}
