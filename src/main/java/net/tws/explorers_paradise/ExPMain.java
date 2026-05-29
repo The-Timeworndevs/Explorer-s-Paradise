@@ -44,8 +44,6 @@ public class ExPMain {
         ExPTabs.CREATIVE_MODE_TABS.register(modEventBus);
 
         NeoForge.EVENT_BUS.register(this);
-
-        modContainer.registerConfig(ModConfig.Type.COMMON, ExPConfig.SPEC);
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
