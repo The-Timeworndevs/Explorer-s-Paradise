@@ -10,8 +10,8 @@
   "temperature": 0.8,
   "effects": {
     "fog_color": 12638463,
-    "foliage_color": 7237174,
-    "grass_color": 7237174,
+    "foliage_color": 8279844,
+    "grass_color": 8279844,
     "grass_color_modifier": "none",
     "mood_sound": {
       "block_search_extent": 8,
@@ -26,8 +26,8 @@
       "sound": "minecraft:music.overworld.swamp"
     },
     "sky_color": 7907327,
-    "water_color": 6583885,
-    "water_fog_color": 2301721
+    "water_color": 8415549,
+    "water_fog_color": 2300697
   },
   "features": [
     [],
@@ -84,6 +84,7 @@
       "minecraft:glow_lichen",
       "minecraft:trees_swamp",
       "explorers_paradise:trees_bog_spruce",
+      "explorers_paradise:bog_huge_brown_mushroom",
       "minecraft:flower_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",

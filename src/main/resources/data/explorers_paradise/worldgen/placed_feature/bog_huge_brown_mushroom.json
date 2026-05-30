@@ -1,5 +1,5 @@
 {
-  "feature": "explorers_paradise:trees_brown_spruce",
+  "feature": "minecraft:huge_brown_mushroom",
   "placement": [
     {
       "type": "minecraft:count",
@@ -11,7 +11,7 @@
             "weight": 9
           },
           {
-            "data": 5,
+            "data": 3,
             "weight": 1
           }
         ]
