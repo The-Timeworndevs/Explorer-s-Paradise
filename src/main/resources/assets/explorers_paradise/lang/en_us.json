@@ -1,4 +1,9 @@
 {
+
   "biome.explorers_paradise.boreal_forest": "Boreal Forest",
-  "biome.explorers_paradise.bog": "Bog"
+  "biome.explorers_paradise.bog": "Bog",
+
+  "item.explorers_paradise.explorers_paradise": "Explorer's Paradise",
+
+  "itemGroup.explorers_paradise.main": "Explorer's Paradise"
 }

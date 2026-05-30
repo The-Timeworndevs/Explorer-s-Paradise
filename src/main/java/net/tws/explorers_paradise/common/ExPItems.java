@@ -9,5 +9,5 @@ import net.tws.explorers_paradise.ExPMain;
 public class ExPItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(ExPMain.MODID);
 
-    public static final DeferredItem<Item> EXAMPLE_ITEM = ITEMS.registerSimpleItem("example_item", new Item.Properties().food(new FoodProperties.Builder().alwaysEdible().nutrition(1).saturationModifier(2f).build()));
+    public static final DeferredItem<Item> EXPLORERS_PARADISE = ITEMS.registerSimpleItem("explorers_paradise", new Item.Properties().food(new FoodProperties.Builder().alwaysEdible().nutrition(1).saturationModifier(2f).build()));
 }

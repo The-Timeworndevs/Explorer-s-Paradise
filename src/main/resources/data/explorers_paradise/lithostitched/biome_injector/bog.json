@@ -6,7 +6,7 @@
       "biome": "explorers_paradise:bog",
       "parameters": {
         "temperature": [
-          -0.4,
+          -0.6,
           0.2
         ],
         "humidity": [
@@ -18,8 +18,8 @@
           0.5
         ],
         "erosion": [
-          -0.9,
-          -0.6
+          0.6,
+          0.9
         ],
         "weirdness": [
           -1.0,

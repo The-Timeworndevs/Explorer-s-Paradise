@@ -1,5 +1,5 @@
 {
-  "feature": "explorers_paradise:trees_swamp_and_spruce",
+  "feature": "explorers_paradise:trees_spruce",
   "placement": [
     {
       "type": "minecraft:count",
@@ -7,11 +7,11 @@
         "type": "minecraft:weighted_list",
         "distribution": [
           {
-            "data": 10,
+            "data": 1,
             "weight": 9
           },
           {
-            "data": 11,
+            "data": 5,
             "weight": 1
           }
         ]

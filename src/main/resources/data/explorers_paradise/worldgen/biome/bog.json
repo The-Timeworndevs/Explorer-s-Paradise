@@ -10,8 +10,8 @@
   "temperature": 0.8,
   "effects": {
     "fog_color": 12638463,
-    "foliage_color": 7429679,
-    "grass_color": 7429679,
+    "foliage_color": 7237174,
+    "grass_color": 7237174,
     "grass_color_modifier": "none",
     "mood_sound": {
       "block_search_extent": 8,
@@ -82,7 +82,8 @@
     ],
     [
       "minecraft:glow_lichen",
-      "explorers_paradise:trees_bog",
+      "minecraft:trees_swamp",
+      "explorers_paradise:trees_bog_spruce",
       "minecraft:flower_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",
