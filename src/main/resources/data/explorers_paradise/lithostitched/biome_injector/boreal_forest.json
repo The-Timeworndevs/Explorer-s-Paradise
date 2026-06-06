@@ -1,33 +1,12 @@
 {
-  "type": "lithostitched:add_points",
+  "type": "lithostitched:replace_partially",
   "dimension": "minecraft:overworld",
-  "points": [
-    {
-      "biome": "explorers_paradise:boreal_forest",
-      "parameters": {
-        "temperature": [
-          -0.4,
-          0.2
-        ],
-        "humidity": [
-          -0.1,
-          0.6
-        ],
-        "continentalness": [
-          -0.1,
-          0.5
-        ],
-        "erosion": [
-          -0.4,
-          0.3
-        ],
-        "weirdness": [
-          -1.0,
-          1.0
-        ],
-        "depth": 0,
-        "offset": 0
-      }
-    }
-  ]
+  "targets": [
+    "minecraft:birch_forest",
+    "minecraft:taiga"
+  ],
+  "replacement": "explorers_paradise:boreal_forest",
+  "parameters": {
+  },
+  "region": "explorers_paradise:boreal_forest"
 }

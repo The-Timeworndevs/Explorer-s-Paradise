@@ -1,7 +1,8 @@
 {
   "dimension": "minecraft:overworld",
   "biomes": [
-    "minecraft:forest"
+    "minecraft:birch_forest",
+    "minecraft:taiga"
   ],
   "weight": 100
 }
