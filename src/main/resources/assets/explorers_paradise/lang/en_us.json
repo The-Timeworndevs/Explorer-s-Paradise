@@ -2,8 +2,12 @@
 
   "biome.explorers_paradise.boreal_forest": "Boreal Forest",
   "biome.explorers_paradise.bog": "Bog",
+  "biome.explorers_paradise.autumnal_forest": "Autumnal Forest",
 
   "block.explorers_paradise.brown_spruce_leaves": "Brown Spruce Leaves",
+  "block.explorers_paradise.yellow_birch_leaves": "Yellow Birch Leaves",
+  "block.explorers_paradise.orange_oak_leaves": "Orange Oak Leaves",
+  "block.explorers_paradise.red_oak_leaves": "Red Oak Leaves",
 
   "item.explorers_paradise.explorers_paradise": "Explorer's Paradise",
 

@@ -1,0 +1,9 @@
+{
+  "type": "lithostitched:replace_partially",
+  "dimension": "minecraft:overworld",
+  "targets": "minecraft:forest",
+  "replacement": "explorers_paradise:autumnal_forest",
+  "parameters": {
+  },
+  "region": "explorers_paradise:test"
+}

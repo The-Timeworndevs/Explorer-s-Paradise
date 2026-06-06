@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "explorers_paradise:block/yellow_birch_leaves"
+  },
+  "render_type": "minecraft:cutout"
+}

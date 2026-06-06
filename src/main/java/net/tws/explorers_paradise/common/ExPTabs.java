@@ -17,5 +17,8 @@ public class ExPTabs {
             .icon(() -> ExPItems.EXPLORERS_PARADISE.get().getDefaultInstance())
             .displayItems((parameters, output) -> {
                 output.accept(ExPBlocks.BROWN_SPRUCE_LEAVES_ITEM.get());
+                output.accept(ExPBlocks.YELLOW_BIRCH_LEAVES_ITEM.get());
+                output.accept(ExPBlocks.ORANGE_OAK_LEAVES_ITEM.get());
+                output.accept(ExPBlocks.RED_OAK_LEAVES_ITEM.get());
             }).build());
 }
