@@ -20,5 +20,7 @@ public class ExPTabs {
                 output.accept(ExPBlocks.YELLOW_BIRCH_LEAVES_ITEM.get());
                 output.accept(ExPBlocks.ORANGE_OAK_LEAVES_ITEM.get());
                 output.accept(ExPBlocks.RED_OAK_LEAVES_ITEM.get());
+                output.accept(ExPBlocks.PINE_LEAVES_ITEM.get());
+                output.accept(ExPBlocks.PINE_LOG_ITEM.get());
             }).build());
 }

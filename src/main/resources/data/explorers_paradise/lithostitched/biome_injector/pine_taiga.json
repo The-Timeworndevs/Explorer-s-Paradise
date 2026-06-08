@@ -1,0 +1,12 @@
+{
+  "type": "lithostitched:replace_partially",
+  "dimension": "minecraft:overworld",
+  "targets": [
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:taiga"
+  ],
+  "replacement": "explorers_paradise:pine_taiga",
+  "parameters": {
+  },
+  "region": "explorers_paradise:pine_taiga"
+}

@@ -4,6 +4,9 @@
   "targets": "minecraft:forest",
   "replacement": "explorers_paradise:autumnal_forest",
   "parameters": {
+    "temperature": {
+      "max_inclusive": 0.2
+    }
   },
   "region": "explorers_paradise:autumnal_forest"
 }
